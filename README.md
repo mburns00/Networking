@@ -52,7 +52,8 @@ The following simulated issues were identified and resolved:
 
 ## Visual Representation
 ### Network Topology:
-![Network Topology](path/to/image.png)  
+![{70B84021-90B6-4183-BA8B-73F25BC7FC61}](https://github.com/user-attachments/assets/864c28cf-86f2-4925-89e6-1e10c5967207)
+
 The network is divided into multiple zones with clear IP segmentation and security configurations.
 
 ---
@@ -85,6 +86,19 @@ This project demonstrates practical implementation and troubleshooting of:
 - Network segmentation enhances both performance and security.
 - ACLs and Port Security are vital for controlling unauthorized access.
 - VPNs ensure data integrity and privacy over untrusted networks.
+
+---
+## IP Tables
+
+### Host Devices
+![{5226FDA2-7EB5-40C3-B4DE-F7BFB3242671}](https://github.com/user-attachments/assets/d834594f-bc68-426c-bb06-72d5b1c13be3)
+![{CE87F55D-C93D-4D18-BC23-876D046C0A89}](https://github.com/user-attachments/assets/4ad57c43-d873-4868-b576-e7f3923c985f)
+
+### Network Devices
+![{49844245-5F6F-4E51-847F-3DC4DD9B5BFB}](https://github.com/user-attachments/assets/b2b6ad31-53f8-4fb5-90a4-399f933608e9)
+
+### Security Configurations
+![{0FFE7F5A-A344-45AB-8ED4-05BA1AFDA4CF}](https://github.com/user-attachments/assets/041e9f2a-e03c-4562-b44b-7a115e25554c)
 
 ---
 

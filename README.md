@@ -102,4 +102,4 @@ This project demonstrates practical implementation and troubleshooting of:
 
 ---
 
-Feel free to fork this project or use it as a reference for implementing secure enterprise networks in **Cisco Packet Tracer**.
+Feel free to download this project or use it as a reference for implementing secure enterprise networks in **Cisco Packet Tracer**.

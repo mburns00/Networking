@@ -2,6 +2,8 @@
 
 This project demonstrates the design, configuration, and troubleshooting of a secure enterprise network using **Cisco Packet Tracer**. It incorporates VLANs, ACLs, VPN tunnels, port security, and other best practices to simulate a real-world secure network environment.
 
+Please download "WAN Project.pkt" to navigate the Network!
+
 ---
 
 ## Project Overview
